@@ -4,7 +4,7 @@ import PptxGenJS from 'pptxgenjs';
 // ─────────────────────────────────────────────────────────────────────────────
 // 🔧 FIREBASE CONFIG — paste your Realtime Database URL here
 // ─────────────────────────────────────────────────────────────────────────────
-const FIREBASE_DB_URL = 'https://YOUR-PROJECT-ID-default-rtdb.firebaseio.com';
+const FIREBASE_DB_URL = 'https://digital-loyalty-calendar-default-rtdb.asia-southeast1.firebasedatabase.app/';
 
 // ─────────────────────────────────────────────────────────────────────────────
 // Constants
